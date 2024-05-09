@@ -2,5 +2,5 @@
 
 | Details |
 | ------------- |
-| Pull Request alfa (Genesis) |
-| Pull Request charlie (Angyee) |
+| Pull Request alfa (Genesis Roman) |
+| Pull Request charlie (Angyee Marín) |
